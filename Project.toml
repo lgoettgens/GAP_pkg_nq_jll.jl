@@ -1,6 +1,6 @@
 name = "GAP_pkg_nq_jll"
 uuid = "00bf61e5-c0f9-5a3f-ba8b-68a621695b53"
-version = "200.51100.0+0"
+version = "201.51100.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
